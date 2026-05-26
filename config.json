@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorpync",
+        "uuid": 9844992,
+        "checksum": "dk4dwu"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
